@@ -1,0 +1,77 @@
+.body{
+  background-color:bisque;
+}
+.border{
+  margin-top: 0;
+  box-shadow: rgba(66, 74, 82, 0.2) 0px 8px 24px;
+  border-radius: 10%;
+  margin-left: 10px;
+} 
+.form{
+  padding-right:25px;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.heading{
+  text-align: center;
+}
+.lfont{
+  color: dimgray;
+  padding-top: 20px;
+}
+.font{
+  color: dimgray;
+  padding-top: 10px;
+}
+.icon{
+  color:rgb(94, 77, 207) ;
+  font-size: 90px;
+  margin-top: 50px;
+  margin-left: 140px;
+}
+.space{
+  margin-top: 15px;
+}
+.submit{
+  margin-top: 15px;
+}
+
+.form-check{
+  padding-top:15px;
+}
+.nuser{
+  margin-left: 50px;
+  padding-top: 50px;
+}
+.forgot{
+ margin-left: 130px;
+}
+.nav-item{
+  padding-left: 30px;
+  padding-right: 30px;
+} 
+.details{
+  margin-top: 50px;
+} 
+.gear{
+  margin-left: 15px;
+}
+.button{
+  width:100%;
+}
+.employee{
+  padding-right:80%;
+}
+.back{
+  margin-top: 15px;
+}
+.fa-house{
+  color: black;
+  font-size: x-large;
+}
+.img{
+  margin-left: 40%;
+ 
+ width: 300px;
+ height: 300px;
+}

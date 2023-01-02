@@ -1,0 +1,169 @@
+.body{
+     height: 2000px;
+ }
+ .home{
+     height: 500px;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("car_logo.jpg");
+     background-size: cover;
+     background-position: relative;
+ }
+ .p1{
+     color: white;
+ 
+ 
+     padding-left: 20px;
+     padding-top:30px;
+     font-family: Georgia, serif;
+     font-size: xx-large;
+ }
+ .li{
+    text-align: center;
+    list-style-type: none;
+ }
+ 
+ nav img {
+     width: 50px;
+     cursor: pointer;
+ }
+ 
+ .nav-links {
+     flex: 1;
+     text-align: right;
+     
+ }
+ 
+ .nav-links ul{
+     list-style: none;
+     display: inline-block;
+     margin: 0px 20px;
+     position: relative;
+ }
+ 
+ .nav-links ul{
+     text-decoration: none;
+     color: white;
+     text-transform: uppercase;
+ }
+ 
+ .nav-links ul::after {
+     content: '';
+     height: 3px;
+     width: 0px;
+     background: blanchedalmond;
+     position: absolute;
+     left: 0;
+     bottom: -10px;
+     transition: 0.2s;
+ }
+ 
+ .nav-links ul:hover::after {
+     width: 100%;
+ }
+ 
+ .nav-links{
+     color: white;
+     padding-top: 30px;
+   
+ }
+ .inform{
+     padding-top: 100px;
+     color: white;
+ }
+ .p2{
+     padding-top: 80px;
+    text-align: center;
+    font-family: Georgia, serif;
+     font-size:xx-large;
+ }
+ .p3{
+     font-family: Georgia, serif;
+     text-align: center;
+     margin-top: 10px;
+ }
+ .p4{
+     color: white;
+     text-align: center;
+     font-family: Georgia, serif;
+ }
+ .p5{
+    font-size: x-large;
+    text-align: center;    
+ }
+ .p6{
+     padding-left: 10px;
+ }
+ .home2{    
+     background: rgb(21,21,21);
+ background: linear-gradient(282deg, rgba(21,21,21,1) 14%, rgba(195,192,192,1) 50%, rgba(0,0,0,1) 100%);   
+ } 
+ .box{
+     height: 500px;
+     padding-left: 18%;
+     margin-top: 80px;
+ }
+ .img{
+    margin-left: 40%;
+   
+   width: 300px;
+   height: 300px;
+ }
+ .box1{
+     height: 380px;
+     width: 230px;
+     background-color:white ;
+     border-radius: 16px;
+     padding: 0px;
+ }
+ .text{
+     background-color: black;
+     color:white;
+     height: 150px;
+     width: 100%;
+     padding: 0px;
+     border-top-left-radius:12px;
+     border-top-right-radius: 12PX;
+     text-align: center;
+     margin-top: 10px;
+     padding-top: 50px;     
+ }
+ .box2{
+     height: 380px;
+     width: 230px;
+     background-color:white ;
+     border-radius: 12px;
+     margin-left: 80px;
+     padding: 0px;
+ }
+ .box3{
+     height: 380px;
+     width: 230px;
+     background-color:white ;
+     border-radius: 12px;
+     margin-left: 80px;
+     padding: 0px;
+ }
+ .button{
+     margin-left: 63px;
+ }
+ .pl1{
+     color: orangered;
+ }
+ .pl2{
+     color: green;
+ }
+ .text-black{
+    height:850px;
+    margin-top: 20px;
+ }
+ .vh-100{    
+    height: 200vmax;
+    background-color:bisque;
+ }
+ .img-fluid{
+    height: 700px;
+    width: 800px;
+ }
+ .anchor{
+    margin-left: 90px;
+
+ }

@@ -1,0 +1,105 @@
+.border{
+    margin-top: px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 9px;
+} 
+.form{
+    padding-right:25px;
+    padding-left: 25px;
+    padding-top: 35px;
+}
+.img{
+    width: 600px;
+    height: 600px;
+    margin-right:10px ;
+    margin-top: 100px;
+}
+.login{
+
+    margin-left: 300px;
+}
+.heading{
+    text-align: center;
+}
+.lfont{
+    color: dimgray;
+    padding-top: 20px;
+}
+.font{
+    color: dimgray;
+    padding-top: 10px;
+}
+.p1{
+    text-align: center;
+    font-size: x-large;
+    margin-left: 90px;
+}
+.log{
+    color:rgb(36, 15, 172) ;   
+    margin-left: 90px;
+    width: 300px;
+    height: 300px;
+}
+.space{
+    margin-top: 15px;
+}
+.submit{
+    margin-top: 15px;
+}
+
+.form-check{
+    padding-top:15px;
+}
+.nuser{
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.forgot{
+   margin-left: 130px;
+}
+.nav-item{
+    padding-left: 30px;
+    padding-right: 30px;
+} 
+.details{
+    margin-top: 50px;
+} 
+.gear{
+    margin-left: 15px;
+}
+.button{
+    width:100%;
+}
+.employee{
+    padding-right:80%;
+}
+.back{
+    margin-top: 15px;
+}
+.fa-house{
+    color: black;
+    font-size: x-large;
+}
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+    }
+    .p-5{
+        height: auto px;
+    }
